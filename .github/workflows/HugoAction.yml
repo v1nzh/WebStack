@@ -37,7 +37,7 @@ jobs:
       - name: Deploy To Bioit-top                       # 部署至当前仓库的其他分支
         uses: peaceiris/actions-gh-pages@v3             # 一个自动发布github pages的action
         with:
-          external_repository: shenweiyan/WebStack-Demo	# 发布到哪个repo
+          #external_repository: shenweiyan/WebStack-Demo	# 发布到哪个repo, 不填写则默认发布到当前仓库
           personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}	  
           publish_dir: ./public
           publish_branch: gh-pages
