@@ -1,4 +1,4 @@
-baseURL               = "https://v1nzh.github.io/WebStack"
+baseURL               = "https://v1nzh.github.io"
 languageCode          = "zh-CN"
 title                 = "网址导航"
 theme                 = "WebStack-Hugo"
