@@ -3,6 +3,10 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
+    - title: cloudflare
+      logo: Cloudflare.png
+      url: https://dash.cloudflare.com/
+      description: cloudflare用户中心。
     - title: 语雀
       logo: 语雀.webp
       url: https://www.yuque.com/
